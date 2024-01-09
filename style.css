@@ -136,3 +136,12 @@ line-height: 32px; /* 160% */
 body{
     font-family: 'Inter', sans-serif;
 }
+footer{
+    display: flex;
+    background-color: #070211;
+    color: #E3D1CD;
+}
+.social{
+    padding: 250px;
+    text-align: center;
+}
