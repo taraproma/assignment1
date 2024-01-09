@@ -53,3 +53,22 @@ color: #FFF;
 
 font-family: Merriweather;
 }
+.pic{
+    position: bottom right;
+    width: 141.641px;
+height: 141.641px;
+fill: radial-gradient(50% 50% at 50% 50%, #690B02 27%, #8F4941 39%, #B18079 51%, #CDADA8 62%, #E3D1CD 73%, #F2EAE7 84%, #FCFAF6 93%, #FFFFFC 100%);
+background-blend-mode: multiply;
+mix-blend-mode: multiply;
+}
+.sch{
+    border-color: #CDADA8;
+    background-color:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+text-align: center;
+font-size: 32px;
+font-weight:400;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+padding:100px 386px 200px 386px;
+}
