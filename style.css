@@ -145,3 +145,16 @@ footer{
     padding: 250px;
     text-align: center;
 }
+.right{
+    text-align: left;
+    margin: bottom;
+    gap: 0;
+}
+.unsubscribe{
+    text-align:left;
+    margin:bottom;
+}
+.reserve{
+    text-align: right;
+    margin-top: ;
+}
